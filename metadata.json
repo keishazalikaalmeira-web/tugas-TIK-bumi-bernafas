@@ -1,0 +1,6 @@
+{
+  "name": "Bumi Bernapas - Laporan Warga & Komunitas Sunter",
+  "description": "Majalah alam yang tenang dan platform pelaporan got mampet warga Sunter & Jakarta serta ruang komunitas aksi lingkungan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
